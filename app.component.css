@@ -1,0 +1,21 @@
+.container{
+    text-align: center;
+    width: 500px;
+    height: 600px;
+    margin-left: 20px;
+    margin: auto;
+    padding: 20px;
+    background-color: salmon;
+    border: red 2px solid;
+    color: rebeccapurple;
+}
+#Instructions{
+    padding: 5px;
+    text-align: left;
+    color: rgb(11, 126, 59);
+}
+#button{
+    box-sizing: border-box;
+    border: rgba(red, green, blue, alpha);
+   }
+   
